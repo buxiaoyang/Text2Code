@@ -131,10 +131,12 @@ namespace Text2Code
         /// <returns></returns>
         public static bool CheckIsTextFile(string fileName)
         {
-            FileStream fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
-            bool isTextFile = true;
+            FileStream fs = null;
             try
             {
+                fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
+                bool isTextFile = true;
+            
                 int i = 0;
                 int length = (int)fs.Length;
                 byte data;
@@ -148,7 +150,7 @@ namespace Text2Code
             }
             catch (Exception ex)
             {
-                throw ex;
+                throw new Exception("Empty path name is not legal.");
             }
             finally
             {
