@@ -1,0 +1,9 @@
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\bin\Debug\Text2Code.exe
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\bin\Debug\Text2Code.pdb
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\obj\x86\Debug\Text2Code.Properties.Resources.resources
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\obj\x86\Debug\Text2Code.exe
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\obj\x86\Debug\Text2Code.pdb
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\obj\x86\Debug\Text2Code.MainForm.resources
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\obj\x86\Debug\Text2Code.csprojResolveAssemblyReference.cache
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\obj\x86\Debug\Text2Code.csproj.GenerateResource.Cache
+C:\Users\bux\Projects\Visual Studio 2010\Text2Code\Text2Code\obj\x86\Debug\Text2Code.Resource1.resources
